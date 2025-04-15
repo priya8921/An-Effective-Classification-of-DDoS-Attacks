@@ -79,7 +79,8 @@ Performance assessment using metrics including recall, precision, accuracy, and 
 
 ## Results:
 The system evaluation shows that the LGBM algorithm provides the highest classification accuracy at 99.77%, outperforming other machine learning algorithms in the study. The ensemble approach with Voting Classifier further enhances the prediction accuracy.
-<img width="626" alt="image" src="https://github.com/user-attachments/assets/cf79c5b8-71a9-4c17-af5c-b2797d7e455d" />
+
+![image](https://github.com/user-attachments/assets/6af74323-d978-4cd8-996e-2dc60ed73225)
 
 ## Extension:
 The project has been extended with:<br>
